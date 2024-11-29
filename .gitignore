@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+.idea/
+brew/
+__pycache__/
+.venv/
+.DS_Storegid
+mermaid/

@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mermaid/Shell_Emulator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_repo/konf1hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_repo/mermaid" vcs="Git" />
   </component>
 </project>
